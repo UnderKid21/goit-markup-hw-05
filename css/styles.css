@@ -524,7 +524,7 @@ margin-bottom: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
@@ -534,4 +534,8 @@ cursor: pointer;
 background-color: #4D5AE5;
 border: none;
 border-radius: 4px;
+}
+.footer-button-svg{
+    margin-left: 16px;
+    fill: #FFFFFF;
 }
